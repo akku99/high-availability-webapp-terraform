@@ -3,4 +3,3 @@
 *.tfstate.backup
 *.pem
 .terraform.lock.hcl
-.crash
